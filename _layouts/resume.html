@@ -145,14 +145,14 @@
           <h2>Award</h2>
         </header>
 
-        {% for recognition in site.data.recognitions %}
         <div class="resume-item">
           <ul class="resume-item-list">
+           {% for recognition in site.data.recognitions %}
             <li>{{ recognition.award }}</li>
+           {% endfor %}
           </ul>
         </div>
-        {% endfor %}
-
+        
       </section>
       <!-- end Recognition -->
       {% endif %}
