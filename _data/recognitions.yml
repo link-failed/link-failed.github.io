@@ -4,14 +4,10 @@
 #  year: 2010, 2014
 #  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
 
-- award: 
-  Comprehensive Scholarship of <a href="https://en.wikipedia.org/wiki/Wu_Yuzhang_Honors_College">Wu Yuzhang Honors College</a>
-- award: 
-  Outstanding Student of Sichuan University
-- award: 
-  Merit Prize of American College Students' Mathematical Modeling Competition
-- award: 
-  Provincial Prize of National College Students' Mathematics Competition
+- award: Comprehensive Scholarship of <a href="https://en.wikipedia.org/wiki/Wu_Yuzhang_Honors_College">Wu Yuzhang Honors College</a>
+- award: Outstanding Student of Sichuan University
+- award: Merit Prize of American College Students' Mathematical Modeling Competition
+- award: Provincial Prize of National College Students' Mathematics Competition
 
 #  organization: Springfield High School
 #  year: 2004
