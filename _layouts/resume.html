@@ -49,9 +49,7 @@
       </header>
 
 
-      </section>
-      <!-- end Experience -->
-      {% endif %}
+      
 
 
       {% if site.resume_section_education %}
@@ -95,7 +93,10 @@
           <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
           <p class="resume-item-copy">{{ job.summary }}</p>
         </div><!-- end of resume-item -->
-      {% endfor %}
+       {% endfor %}
+     </section>
+     <!-- end Experience -->
+     {% endif %}
 
 
       {% if site.resume_section_projects %}
