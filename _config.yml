@@ -1,5 +1,5 @@
 # Site settings
-title: "Jekyll Resume Template"
+title: "Resume"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -17,8 +17,8 @@ resume_title:                   "Student"
 resume_contact_email:           "xxxyyyhuang@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+# resume_contact_telephone:       "555-7334"
+# resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
@@ -36,19 +36,19 @@ resume_looking_for_work:        "yes"
 resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
-resume_section_skills:          false
+# resume_section_skills:          false
 resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
+# resume_section_links:           true
+# resume_section_associations:    true
 
-# resume_section_interests:       true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/link-failed"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+# resume_twitter_url:           "http://twitter.com/jglovier"
+# resume_dribbble_url:          "https://dribbble.com/jag"
 
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
