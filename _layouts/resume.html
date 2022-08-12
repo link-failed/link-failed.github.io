@@ -117,8 +117,8 @@
       <!-- end Projects -->
       {% endif %}
 
+<!--
       {% if site.resume_section_skills %}
-      <!-- begin Skills -->
       <section class="content-section">
 
         <header class="section-header">
@@ -132,22 +132,23 @@
         {% endfor %}
 
       </section>
-      <!-- end Skills -->
       {% endif %}
+ -->
 
       {% if site.resume_section_recognition %}
       <!-- begin Recognition -->
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Recognition</h2>
+          <h2>Recognition & Award</h2>
         </header>
 
         {% for recognition in site.data.recognitions %}
         <div class="resume-item">
-          <h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
-          <h4 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</h4>
-          <p class="resume-item-copy">{{ recognition.summary }}</p>
+          <ul class="resume-item-list">
+            <li>{{ interest.award }}</li>
+            {% endfor %}
+          </ul>
         </div>
         {% endfor %}
 
@@ -155,8 +156,8 @@
       <!-- end Recognition -->
       {% endif %}
 
+<!--
       {% if site.resume_section_associations %}
-      <!-- begin Associations -->
       <section class="content-section">
 
         <header class="section-header">
@@ -170,6 +171,7 @@
           <p class="resume-item-copy">{{ association.summary }}</p>
         </div>
         {% endfor %}
+-->
 
       </section>
       <!-- end Associations -->
@@ -232,8 +234,8 @@
       {% endif %}
 
       <footer class="page-footer">
-        <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
-        <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
+        <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork from <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
+        <p class="footer-line">:)</p>
       </footer>
 
     </div>
