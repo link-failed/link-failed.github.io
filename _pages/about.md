@@ -18,15 +18,11 @@ Prior to my Ph.D., I received my B.Eng. in Computer Science and Technology from 
 
 - Reinforcement Learning for Data Science
 - Agentic RL
-- Large Language Models for structured data (SQL, tables, spreadsheets)
-- Query optimization and rewriting
 
 ## News
 
-- **Aug 2025** — Finished research internship at Microsoft (Beijing).
-- **Jun 2025** — Preprint [SPA](https://arxiv.org/abs/2606.08620) released on arXiv.
-- **Apr 2025** — Preprint [Structure-Grounded Knowledge Retrieval](https://arxiv.org/abs/2604.10516) released on arXiv.
-- **Sep 2024** — Started Ph.D. at Simon Fraser University.
+- **Sep 2025** — Transferred to Ph.D..
+- **Jan 2024** — Started MSc. in computing science at Simon Fraser University.
 
 ## Education
 
@@ -41,6 +37,10 @@ Prior to my Ph.D., I received my B.Eng. in Computer Science and Technology from 
   * Graduated with Honors
 
 ## Experience
+
+* **Aug 2026 – Present: Research Intern**, Microsoft (Vancouver, BC, Canada — Remote)
+  * Mentors: Danrui Qi and Zhongqi Yue
+  * Working on post-training.
 
 * **May 2025 – Aug 2025: Research Intern**, Microsoft (Beijing, China)
   * Mentor: Haoyu Dong
