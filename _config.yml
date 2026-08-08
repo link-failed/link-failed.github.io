@@ -3,6 +3,9 @@
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that.
 
+# Theme
+remote_theme             : "academicpages/academicpages.github.io"
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Xinyi Huang"
@@ -172,6 +175,7 @@ timezone: America/Vancouver
 
 # Plugins
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
@@ -180,6 +184,7 @@ plugins:
 
 # Mimic GitHub Pages with --safe
 whitelist:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
