@@ -19,23 +19,6 @@ Prior to my Ph.D., I received my B.Eng. in Computer Science and Technology from 
 - Reinforcement Learning for Data Science
 - Agentic RL
 
-## News
-
-- **Sep 2025** — Transferred to Ph.D..
-- **Jan 2024** — Started MSc. in computing science at Simon Fraser University.
-
-## Education
-
-* **Ph.D. in Computer Science**, Simon Fraser University, 2024 – Present
-  * GPA: 4.00/4.33
-  * Advisor: [Zhengjie Miao](https://www.cs.sfu.ca/~jnmiao/)
-  * Research area: RL for data science, agentic RL
-  * Mitacs Globalink Graduate Fellowship
-
-* **B.Eng. in Computer Science and Technology**, Sichuan University, 2019 – 2023
-  * GPA: 3.89/4.00
-  * Graduated with Honors
-
 ## Experience
 
 * **Aug 2026 – Present: Research Intern**, Microsoft (Vancouver, BC, Canada — Remote)
@@ -72,8 +55,19 @@ Prior to my Ph.D., I received my B.Eng. in Computer Science and Technology from 
   * Utilized schema abstraction to identify LLMs' potential reliance on semantic hints, detecting when models bypass structural reasoning in favor of lexical cues.
   * Benchmarked 8 LLMs across 2,900+ query pairs, discovering that the most advanced models outperform traditional formal methods by up to 155% while exhibiting complementary failure modes.
 
-## Projects
+## Education
 
-* **Develop Children Autism Diagnostic Scale with Bayesian Factor Analysis** (2022)
-  * Extracted children's behavioral characteristics and key diagnostic features from patient cases and diagnoses.
-  * Designed an autism diagnostic scale using Bayesian Factor Analysis to assist diagnoses.
+* **Ph.D. in Computer Science**, Simon Fraser University, 2024 – Present
+  * GPA: 4.00/4.33
+  * Advisor: [Zhengjie Miao](https://www.cs.sfu.ca/~jnmiao/)
+  * Research area: RL for data science, agentic RL
+  * Mitacs Globalink Graduate Fellowship
+
+* **B.Eng. in Computer Science and Technology**, Sichuan University, 2019 – 2023
+  * GPA: 3.89/4.00
+  * Graduated with Honors
+
+## News
+
+- **Sep 2025** — Transferred to Ph.D..
+- **Jan 2024** — Started MSc. in computing science at Simon Fraser University.
