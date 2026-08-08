@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at [Simon Fraser University](https://www.sfu.ca/), advised by [Zhengjie Miao](https://www.cs.sfu.ca/~jnmiao/).
-
-Prior to my Ph.D., I received my B.Eng. in Computer Science and Technology from [Sichuan University](https://www.scu.edu.cn/) (2019–2023), graduating with Honors (GPA 3.89/4.00).
+I am a Ph.D. student in Computer Science at [Simon Fraser University](https://www.sfu.ca/), advised by [Zhengjie Miao](https://www.cs.sfu.ca/~jnmiao/). Prior to my Ph.D., I received my B.Eng. in Computer Science and Technology from [Sichuan University](https://www.scu.edu.cn/) (2019–2023), graduating with Honors.
 
 ## Research Interests
 
