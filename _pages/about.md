@@ -18,7 +18,7 @@ I am a Ph.D. student in Computer Science at [Simon Fraser University](https://ww
 ## Experience
 
 * **Aug 2026 – Present: Research Intern**, Microsoft (Vancouver, BC, Canada — Remote)
-  * Mentors: Zhongqi Yue, Danrui Qi
+  * Mentors: Zhongqi Yue
   * Working on post-training.
 
 * **May 2025 – Aug 2025: Research Intern**, Microsoft (Beijing, China)
