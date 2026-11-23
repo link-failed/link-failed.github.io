@@ -4,7 +4,7 @@
 # which you are expected to set up once and rarely edit after that.
 
 # Theme
-remote_theme             : "academicpages/academicpages.github.io"
+remote_theme             : "academicpages/academicpages.github.io@a4386d88512a52499f4cebff515a1bb9b310da9a"
 
 # Site Settings
 locale                   : "en-US"
